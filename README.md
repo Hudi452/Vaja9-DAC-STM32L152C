@@ -3,6 +3,6 @@
 ODGOVORI NA VPRAŠANJA:\
 2.\
 b) Ta razvojna plošča ima 2 DAC izhoda.\
-c) Napetostno območje DAC izhoda je od 0 do 3 V.\ 
+c) Napetostno območje DAC izhoda je od 0 do 3 V.\
 d) Če obkljukamo OUT2 Configuration se obarva pin PA5 zeleno.\
-e) Za DAC pretvorbo so privzeti nastavitvi Output Buffer: Enable in Trigger: None.
+e) Za DAC pretvorbo sta privzeti nastavitvi Output Buffer: Enable in Trigger: None.
