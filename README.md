@@ -8,3 +8,6 @@ d) Če obkljukamo OUT2 Configuration se obarva pin PA5 zeleno.\
 e) Za DAC pretvorbo sta privzeti nastavitvi Output Buffer: Enable in Trigger: None.\
 4.\ 
 e) Odstopanje v izmerjene vrednosti je 170 mV.
+
+Komentar:
+
