@@ -19,5 +19,5 @@ e) Za DAC pretvorbo sta privzeti nastavitvi Output Buffer: Enable in Trigger: No
 e) Odstopanje v izmerjene vrednosti je 43 mV.
 
 Komentar:\
-Projekt deluje po pričakovanjih. Na izhodu PA5 dobimo analogno napetost 2,243 V, kar je dovolj blizu 2,2 V. To dosežemo z DAC, ki pretvori 8 bitno digitalno vrednost od 0 do 255 v analogno napetost od 0 do 3 V.
+Projekt deluje po pričakovanjih. Na izhodu PA5 dobimo analogno napetost 2,243 V, kar je dovolj blizu 2,2 V. To dosežemo z DAC, ki pretvori 8 bitno digitalno vrednost (0 - 255) v analogno napetost od 0 do 3 V.
 
