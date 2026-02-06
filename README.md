@@ -7,7 +7,7 @@ DAC KONFIGURACIJSKO OKNO:\
 ![DAC](https://github.com/Hudi452/Vaja9-DAC-STM32L152C/blob/main/DAC_konfiguracijsko_okno.png)
 
 SLIKA V-METRA:\
-
+![V-METER](https://github.com/Hudi452/Vaja9-DAC-STM32L152C/blob/main/Slika%20V-metra.PNG)
 
 ODGOVORI NA VPRAŠANJA:\
 2.\
