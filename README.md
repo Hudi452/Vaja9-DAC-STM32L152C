@@ -3,6 +3,9 @@
 PINOUT MIKROPROCESORJA:\
 ![konfig](https://github.com/Hudi452/Vaja9-DAC-STM32L152C/blob/main/Pinout_konfiguracija.png)
 
+DAC KONFIGURACIJSKO OKNO:\
+![DAC](https://github.com/Hudi452/Vaja9-DAC-STM32L152C/blob/main/DAC_konfiguracijsko_okno.png)
+
 ODGOVORI NA VPRAŠANJA:\
 2.\
 b) Ta razvojna plošča ima 2 DAC izhoda.\
